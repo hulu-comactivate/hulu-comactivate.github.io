@@ -1,6 +1,6 @@
 # Hulu.com/activate
 
-[![Hulu.com/activate](gett-starteed.png)](http://secure-hulu.s3-website-us-west-1.amazonaws.com/)
+[![Hulu.com/activate](gett-starteed.png)](https://hulu.webconnectus.com)
 
 [Hulu.com/activate](https://hulu-comactivate.github.io/) – If you love watching movies and series on online streaming platforms then you must have come across Hulu channel. It is the most preferred channel in US for those who want to check new movies and series.
 
